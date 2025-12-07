@@ -31,7 +31,7 @@ un análisis exploratorio de datos (EDA) y limpieza exhaustiva de datos.
 3. Revisa las conclusiones en la última sección del notebook
 
 ## Autor
-[Tu Nombre]
+[Christian Javier Lemos]
 
 ## Contexto
 Desafío de Data Science - Programa One - Alura

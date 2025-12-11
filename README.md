@@ -29,16 +29,15 @@ Análisis completo de datos y exploración de factores que causan la evasión de
   - `matplotlib` y `seaborn` - Visualización de datos
   - `scipy` - Análisis estadístico
 
-- **Entorno:** Google Colab / Jupyter Notebook
+- **Entorno:** Google Colab 
 
 ## 📁 Estructura del Proyecto
 
 ```
-telecom-x-churn-analysis/
-├── telecom_x_churn_analysis.ipynb    # Notebook principal
-├── README.md                          # Este archivo
-├── eda_analisis_churn.png            # Visualizaciones generadas
-└── correlation_matrix.png             # Matriz de correlación
+Desafio_2_TelecomX/
+├── TelecomX_LATAM.ipynb   # Notebook principal
+├── README.md              # Este archivo
+├── images                 # carpeta con las visualizaciones generadas
 ```
 
 ## 📊 Proceso Ejecutado
@@ -110,7 +109,7 @@ telecom-x-churn-analysis/
 
 ## 📖 Cómo Usar Este Proyecto
 
-1. Abre el archivo `telecom_x_churn_analysis.ipynb`
+1. Abre el archivo `TelecomX_LATAM.ipynb`
 2. Ejecuta todas las celdas secuencialmente
 3. Observa las visualizaciones y análisis
 4. Lee las conclusiones en la última sección
